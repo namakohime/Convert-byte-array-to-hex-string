@@ -1,3 +1,24 @@
 # Convert-byte-array-to-hex-string
-This program converts a byte array to a hexidecimal string in C.
-This uses Bitmap image as byte data. 
+This program uses Bitmap image as byte data.
+If you want to excute this program, please make Bitmap image named test.c.
+
+#iput - test.c (Bitmap image) 
+#output - hex_string 
+
+#example
+42 4D 7A 00 0C 00 00 00 00 00 7A 00 00 00 6C 00
+00 00 00 02 00 00 00 02 00 00 01 00 18 00 00 00
+00 00 00 00 0C 00 13 0B 00 00 13 0B 00 00 00 00
+00 00 00 00 00 00 42 47 52 73 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 02 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 73 73 74 73 74 73
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
