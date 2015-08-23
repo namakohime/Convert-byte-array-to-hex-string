@@ -1,8 +1,10 @@
 # Convert-byte-array-to-hex-string
 This program uses Bitmap image as byte data.
+
 If you want to excute this program, please make Bitmap image named test.c.
 
 //iput - test.c (Bitmap image) 
+
 //output - hex_string 
 
 //example
