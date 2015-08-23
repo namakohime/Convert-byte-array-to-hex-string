@@ -3,11 +3,12 @@ This program uses Bitmap image as byte data.
 
 If you want to excute this program, please make Bitmap image named test.c.
 
-//iput - test.c (Bitmap image) 
+・️iput - test.c (Bitmap image) 
 
-//output - hex_string 
+・output - hex_string 
 
-//example
+・example
+
 42 4D 7A 00 0C 00 00 00 00 00 7A 00 00 00 6C 00
 00 00 00 02 00 00 00 02 00 00 01 00 18 00 00 00
 00 00 00 00 0C 00 13 0B 00 00 13 0B 00 00 00 00
